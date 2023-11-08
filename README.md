@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bravey30
-- 👀 I’m interested in php and network marketing
-- 🌱 I’m currently learning business information technology 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in development and sharpening my skills
+- 🌱 Whats a code without humor😈 where's the fun in that
+- 💞️ I’m looking to collaborate on reactjs projects
 - 📫 How to reach me +255764068807, briansiwima@gmail.com 
 
 <!---
